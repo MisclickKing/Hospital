@@ -1,0 +1,11 @@
+select* from physician;
+select* from nurse;
+select* from instructions;
+select* from health_record;
+select* from patient;
+select* from room;
+select* from medication;
+select* from pharamacy;
+select* from medicine;
+select* from payment;
+select* from invoice;
